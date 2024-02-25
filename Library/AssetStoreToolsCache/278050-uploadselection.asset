@@ -1,0 +1,21 @@
+{"ActiveWorkflow" : "FolderWorkflow", "FolderWorkflow" : {
+"mainPath" : {
+"path" : "Assets\/Free Advanced First Person Controller", 
+"guid" : "43820ef4122cc0643b689ddf0174b523"
+}, 
+"extraPaths" : [], 
+"dependencies" : false, 
+"dependenciesNames" : []
+}, "UnitypackageWorkflow" : {
+"mainPath" : {
+"path" : "", 
+"guid" : ""
+}, 
+"extraPaths" : []
+}, "HybridPackageWorkflow" : {
+"mainPath" : {
+"path" : "", 
+"guid" : ""
+}, 
+"extraPaths" : []
+}}

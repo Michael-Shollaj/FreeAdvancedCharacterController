@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Free Advanced First Person Controller/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
